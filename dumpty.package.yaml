@@ -1,5 +1,5 @@
 name: sample-package
-version: 5.0.0
+version: 1.0.0
 description: Sample package for testing
 author: Test Author
 license: MIT
@@ -15,7 +15,7 @@ agents:
         installed_path: planning.prompt.md
   
   claude:
-    chatmodes:
+    commands:
       - name: planning
         description: Planning command
         file: planning.md
