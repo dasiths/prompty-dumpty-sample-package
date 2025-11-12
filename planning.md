@@ -1,3 +1,3 @@
-# Planning Prompt v6
+# Planning Prompt v1
 
 This is a sample planning prompt for testing.
