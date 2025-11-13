@@ -3,7 +3,7 @@ version: 3.0.0
 description: Sample package for testing
 author: Test Author
 license: MIT
-repository: https://github.com/dasiths/prompty-dumpty-sample-package
+homepage: https://github.com/dasiths/prompty-dumpty-sample-package
 manifest_version: 1.0
 
 agents:
